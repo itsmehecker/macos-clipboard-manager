@@ -1,0 +1,4 @@
+PyObjC
+pyperclip
+pyqt5
+rumps
