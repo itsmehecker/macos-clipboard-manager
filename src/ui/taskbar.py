@@ -7,7 +7,7 @@ class TaskbarApp(rumps.App):
         self.clipboard_manager = ClipboardManager()
         self.menu = ["Clear Clipboard History", None]  # None adds a separator
         self.update_clipboard_history()
-        self.timer = rumps.Timer(self.check_clipboard, 3)  # Check clipboard every 5 seconds
+        self.timer = rumps.Timer(self.check_clipboard, 3)  # Check clipboard every 3 seconds
         self.timer.start()
 
     @rumps.clicked("Clear Clipboard History")

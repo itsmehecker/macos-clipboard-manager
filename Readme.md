@@ -2,6 +2,8 @@
 
 This project is a clipboard manager application for macOS that allows users to manage their clipboard history efficiently. The application runs in the taskbar, providing easy access to clipboard operations.
 
+simple clipboard manager written in python
+
 ## Features
 
 - Copy and paste functionality
