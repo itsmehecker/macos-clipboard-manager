@@ -20,8 +20,6 @@ macos-clipboard-manager
 │   │   └── taskbar.py   # Manages the taskbar icon and interactions
 │   ├── clipboard
 │   │   └── manager.py   # Handles clipboard operations
-│   └── utils
-│       └── helpers.py   # Utility functions for the application
 ├── requirements.txt     # Lists project dependencies
 └── README.md            # Project documentation
 ```
